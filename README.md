@@ -1,5 +1,5 @@
 # Playground
-## Peyton is editing here lalalalalalal 
+I love git merge conflicts!
 A place to play with `git`.
 
 ### Fall 2020
